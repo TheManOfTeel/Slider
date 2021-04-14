@@ -1,2 +1,2 @@
 # Slider
- VB slider demo
+ VB slider demo.

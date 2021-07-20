@@ -1,2 +1,2 @@
 # Slider
- VB slider demo.
+EGR 1410 Project (Computer Problem Solving in Engineering and Computer Science). VB slider demo.
